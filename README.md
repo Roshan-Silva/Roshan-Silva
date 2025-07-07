@@ -1,93 +1,74 @@
-# 👋 Hello! I'm Sachintha Silva
 
-🚀 Final-year Software Engineering undergraduate at Sabaragamuwa University of Sri Lanka  
-💡 Passionate Full-Stack Developer with a love for clean code, performance, and scalable solutions  
-🎯 Currently focused on Laravel, React, Django, and educational game development
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%71bfde&size=30&center=true&vCenter=true&height=60&width=600&lines=Hi+there!+I'm+Sachintha+Silva;Welcome+to+my+GitHub+profile+👨‍💻✨" alt="Typing animation" />
+</div>
+
+<h3 align="center">Motivated Full-Stack Developer | Engineering real-world solutions with creativity and code</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roshan-Silva&label=Profile%20Visitors&color=ff6347&style=flat" alt="Visitor Count Badge" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently building **e-commerce**, **food ordering**, and **educational game** platforms  
-- 🌱 Always learning new technologies and frameworks  
-- 🤝 Open to internship and collaboration opportunities  
-- 📫 Reach me at: [sachinthasilva01@gmail.com](mailto:sachinthasilva01@gmail.com)
+- 🎓 Final Year Software Engineering Undergraduate @ Sabaragamuwa University of Sri Lanka  
+- 💻 Full-Stack Developer | Passionate about Laravel, React, Unity, and Django  
+- 🔭 Currently working on:  
+  - [OnMarket](https://github.com/Roshan-Silva/On-Market) – A full-featured e-commerce web app  
+  - [Uvindu Food Cabin](https://github.com/Roshan-Silva/Uvindu-Food-Ordering-System) – A food ordering platform with Django + React  
+- ⚡ Fun fact: I debug like a detective 🕵️‍♂️  
+- 📫 Reach me: [sachinthasilva01@gmail.com](mailto:sachinthasilva01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sachintha-silva-93224032b/)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sachintha-silva-93224032b/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="mailto:sachinthasilva01@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" height="30" width="40" /></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`PHP` `JavaScript` `C#` `Python` `C`
-
-**Frameworks & Tools:**  
-`Laravel` `React` `Node.js` `Django` `Unity` `Tailwind CSS` `Bootstrap`
-
-**Databases:**  
-`MySQL` `MongoDB`
-
-**Others:**  
-`GitHub` `Cisco Packet Tracer` `VS Code`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,django,python,c,cs,mysql,mongodb,html,css,tailwind,bootstrap,unity,git,vscode" />
+</p>
 
 ---
 
-## 🔨 Notable Projects
+## 🏆 GitHub Trophies
 
-### 🏥 [HealthFirst – Hospital Management System](https://github.com/Roshan-Silva/HealthFirst)
-> A hospital management system for appointment booking and patient-doctor interactions  
-**Tech:** Laravel, MySQL, Blade, Bootstrap
-
----
-
-### 🎓 [TutorTrack – Tutoring Platform](https://github.com/Roshan-Silva/TutorTrackComplete)
-> A web platform to connect Sri Lankan A/L students with tutors  
-**Tech:** Node.js, React, MongoDB
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Roshan-Silva&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 ---
 
-### 🛒 [OnMarket – E-Commerce Website](https://github.com/Roshan-Silva/On-Market)
-> Complete e-commerce solution with admin dashboard and payment options  
-**Tech:** PHP, Blade, MySQL, JS
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Silva&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Silva&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roshan-Silva&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-### 🍱 [Uvindu Food Cabin – Food Ordering System](https://github.com/Roshan-Silva/Uvindu-Food-Ordering-System)
-> Scalable, mobile-friendly food ordering system  
-**Tech:** Django, React, Tailwind CSS
+## ⚡ Activity Graph
+
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan-Silva&bg_color=000000&color=ff6347&line=63f7f7&point=ffffff&area=true&hide_border=true" />
+</div>
 
 ---
 
-### 🎮 [PhysicsQuest – Educational 2D Game](https://github.com/Roshan-Silva/Carrom_2D)
-> Teaches physics using an interactive carrom game with angle and velocity calculations  
-**Tech:** Unity 2D, C#
-
----
-
-## 🌱 Volunteer Experience
-
-- 👨‍🏫 Volunteer Instructor – STEMUp Educational Foundation  
-- ⚙️ Volunteer Coordinator – IEEE Student Branch, SUSL  
-- 👨‍💻 Active Member – Society of Computer Sciences
-
----
-
-## 💬 Soft Skills
-
-`Teamwork` `Critical Thinking` `Troubleshooting`  
-`Time Management` `Adaptability` `Active Listening`
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshan-Silva&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Silva&layout=compact&theme=radical)
-
----
-
-## 🔗 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sachintha-silva-93224032b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Roshan-Silva)
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
+</p>
